@@ -1,0 +1,16 @@
+{
+  "name": "com.bytegames.touch-system",
+  "version": "1.0.0",
+  "displayName": "Touch System",
+  "unity": "2017.1",
+  "keywords": [
+    "touch",
+    "utility"
+  ],
+  "author": {
+    "name": "Musab Kara",
+    "email": "musabkara1990@gmail.com"
+  },
+  "type": "tool",
+  "description": "Getting world positions of touched objects"
+}
